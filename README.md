@@ -34,3 +34,6 @@ install the dependecies
 pip install -r requirements.txt
 ```
 
+### Total Execution Time
+
+The total execution time of the notebook is 326.58 seconds, considering: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
